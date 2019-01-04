@@ -36,4 +36,4 @@ For the contribution and workflow [guide](CONTRIBUTING.md)
 
 - Guilherme Guitte - <guilherme.guitte@adeo.com>
 - Tiago Rosa - <tiago.rosa@adeo.com>
-- Luiz Fernando - <luiz.alves@adeo.coms>
+- Luiz Fernando - <luiz.alves@adeo.com>
