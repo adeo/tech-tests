@@ -1,5 +1,5 @@
 ```hint
-<b>Overall ADEO's UX Test</b>
+*Overall ADEO's UX Test*
 <br>
  This is a first test created for <b>UX Designers</b> willing to join Group ADEO or it's BU's. It's generic, doens't have an added value and do not address anyone of our business or projects. The goal here is to understand the technical skills of the candidate and for the candidate to understand how it is to work as UX Designer inside ADEO.
 It should evolve with time and do not hesitate on leaving your feedbacks.  
