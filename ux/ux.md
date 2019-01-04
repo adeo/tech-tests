@@ -54,3 +54,7 @@ Give the visibility on what are the most impactfull visual elements for our busi
 	_(via hangout using your words and the prototype, no power point needed, pleaaaase!)_
 	- what is the proposed evolution compared to what we have today?
 	- Why can the proposed solution help us in our goal?
+
+```hint
+Doubts? Questions? Feel free to ask, chat and discuss. Ready to work? Go ahead, just don't forget to send your estimate! o/ Good luck and see you soon. : )
+```
