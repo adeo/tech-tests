@@ -3,7 +3,7 @@ Overall ADEO's UX Test
 
  This is a first test created for <b>UX Designers</b> willing to join Group ADEO or it's BU's. It's generic, doens't have an added value and do not address any of our business or projects.
 
- The goal here is to understand the technical skills of the candidate and for the candidate to understand how it is to work as UX Designer inside ADEO.
+ The goal here is to understand the skills of the candidate and for the candidate to understand how it is to work as UX Designer inside ADEO.
  
 It should evolve with time and do not hesitate on leaving your feedbacks.  
 ```
@@ -19,10 +19,10 @@ hint
 Actually, it's quite simple. It is about a `user-story` in a way commonly used for PO's before bringing it to sprint plannings. 
 
 #### What's expected ?
-A few things, for starters would be nice to have an estimate of when you think you'll be able to deliver it and what are the steps/tasks you'll be taking. Nothing to formal and precise, it's an `estimate` for real! : )
+A few things, for starters would be nice to have an estimate of when you think you'll be able to deliver it and what are the steps/tasks you'll be taking on to. Nothing to formal and precise, it's an `estimate` for real! : )
 
 ------------------------------------------------------------------------------
-# As a lead UX Designer, I want to see the most used interactions of our design system so that I'm instantly aware of new design needs
+# As a lead UX Designer, I want to understand the real-time usage behind the patterns of our design system so that I'm instantly aware on how it's helping teams on solving problems.
 
 
 ## Summary
@@ -30,9 +30,9 @@ Here at Adeo we're working on our new design-system. For the sake of this test, 
 
 And thinking about that, we should be able to acomplish the user story above on their interfaces.
 
-The main goal is to explore new interactions to make designers aware about the most used elements on the design system and how and why they are impactfull for the business.
+Though in real-world-scenario we would need to validate if there's a point on trying to do that. We'll assume that's a yes for the sake of this test, and will work on how to make it visible for designers to leverage that information. 
 
-#### A few examples of information to display: 
+#### A few examples of informations to display: 
 
 - <b>Overall info</b>
 	- which kind of pages uses it ?
@@ -47,7 +47,7 @@ The main goal is to explore new interactions to make designers aware about the m
 	_- % of exit (or bounce) after interacting with the element_
 
 ## The goal
-Give the visibility on what are the most impactfull visual elements for our business
+Give the visibility on what visual elements are helping to enhance our results
 
 ## Deliverable (definition of done)
 - Low fidelity prototype
